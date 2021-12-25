@@ -1,5 +1,5 @@
 # DIO - DIGITAL INNOVATION ONE
-## Repositório para arquivar os dados de estudo dos Bootcamps
+## Repositório para arquivar os dados de estudo do Bootcamp
 
 Bootcamp Cognizant Java Developer
 
