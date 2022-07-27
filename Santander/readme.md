@@ -1,4 +1,4 @@
 # **EXERCICIO PRATICO:**  
 
-Criação de uma landing page, simulando o "Instagram".  
+Recriando a página inicial do Instagram.  
 Utilizado o Visual Studio Code.  
